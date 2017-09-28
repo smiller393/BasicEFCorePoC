@@ -8,7 +8,6 @@ namespace SamuraiApp.Data
 {
     public class Battle
     {
-        public int Id { get; set; }
-        public string Text { get; set; }
+
     }
 }

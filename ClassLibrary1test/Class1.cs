@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SamuraiApp.Data
+namespace ClassLibrary1test
 {
-    public class Battle
+    public class Class1
     {
-        public int Id { get; set; }
-        public string Text { get; set; }
     }
 }
